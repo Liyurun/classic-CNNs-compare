@@ -8,18 +8,18 @@
 
 模型的参数都按照相同的参数进行计算，需要特殊结构的，如GoogLeNet中的Inception和ResNet中的Residual模块，具体参数设置在collect_net.py。
 
-##训练误差
+## 训练误差
 
-![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png=50x50)
-
-
-
-##测试误差
-![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png)
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png=30x30)
 
 
-##损失函数
-![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/loss.png)
+
+## 测试误差
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png=30x30)
+
+
+## 损失函数
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/loss.png=30x30)
 
 
 
