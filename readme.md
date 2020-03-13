@@ -1,4 +1,4 @@
-﻿# classic-CNNs-compare
+# classic-CNNs-compare
 对比了几种经典的卷积神经网络的算法，方便自己写的网络与经典的几种算法进行对比，包括简单卷积神经网络（LeNet）^[1]^ 、深度卷积神经网络（AlexNet）^[2]^ 、包含重复元素的卷积神经网络（VGG）^[3]^ 、嵌入网络的卷积神经网络（NiN）^[4]^ 、并行连接的卷积神经网络（GoogLeNet）^[5]^ 、残差卷积神经网络（ResNet）^[6]^ 。
 
 程序主要包括3个部分：
@@ -8,18 +8,17 @@
 
 模型的参数都按照相同的参数进行计算，需要特殊结构的，如GoogLeNet中的Inception和ResNet中的Residual模块，具体参数设置在collect_net.py。
 
-###训练误差
-
+##训练误差
 ![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png)
 
 
 
-###测试误差
+##测试误差
 ![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png)
-###损失函数
 
 
-![在这里插入图片描述](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/loss.png)
+##损失函数
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/loss.png)
 
 
 
