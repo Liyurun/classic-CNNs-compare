@@ -9,16 +9,17 @@
 模型的参数都按照相同的参数进行计算，需要特殊结构的，如GoogLeNet中的Inception和ResNet中的Residual模块，具体参数设置在collect_net.py。
 
 ###训练误差
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200313190319450.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RpbWVfZm9yZ290dGVu,size_16,color_FFFFFF,t_70#pic_center)
+
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png)
 
 
 
 ###测试误差
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200313190214375.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RpbWVfZm9yZ290dGVu,size_16,color_FFFFFF,t_70#pic_center)
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png)
 ###损失函数
 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200313190217669.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3RpbWVfZm9yZ290dGVu,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/loss.png)
 
 
 
