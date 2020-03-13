@@ -10,12 +10,12 @@
 
 ### 训练误差
 
-![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png=30x30)
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/train_acc.png)
 
 
 
 ### 测试误差
-![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png=50x50)
+![](https://github.com/Liyurun/classic-CNNs-compare/blob/master/results/test_acc.png)
 
 
 ### 损失函数
